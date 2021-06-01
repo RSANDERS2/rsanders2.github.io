@@ -2,12 +2,12 @@
 
 01 HTML CSS Git: Code Refactor
 
-This assignment involved editing prexisting HTML/CSS code for the Horiseon Website    
+This assignment required prexisting HTML/CSS code to be refactored    
 
-The changes include: 
+The following changes were made:  
 
-- DIV labels changed to specific semantic elements       
-- Alt attributes added to IMG elements     
-- Combined class labels to reduce redundancy  
+- DIV labels were replaced with specific HTML5 semantics       
+- Alt attributes were added to IMG elements for accessibilty    
+- CSS class labels were combined to reduce redundancy   
 
-The website can be view at the following url: https://rsanders2.github.io/
+The Horiseon website can be view at the following url: https://rsanders2.github.io/
