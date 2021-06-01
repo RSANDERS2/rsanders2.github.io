@@ -10,4 +10,4 @@ The changes include:
 - Alt attributes added to IMG elements     
 - Combined class labels to reduce redundancy  
 
-The website can view at this url: https://rsanders2.github.io/
+The website can be view at the following url: https://rsanders2.github.io/
