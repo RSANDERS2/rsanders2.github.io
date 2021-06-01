@@ -10,4 +10,4 @@ The following changes were made:
 - Alt attributes were added to IMG elements for accessibilty    
 - CSS class labels were combined to reduce redundancy   
 
-The Horiseon website can be view at the following url: https://rsanders2.github.io/
+The Horiseon website can be view at the following url: https://rsanders2.github.io/rsanders2.github.io-horiseon/
