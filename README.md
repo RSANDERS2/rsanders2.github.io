@@ -11,4 +11,5 @@ The following changes were made:
 - CSS class labels were combined to reduce redundancy   
 
 The Horiseon website can be view at the following url: https://rsanders2.github.io/rsanders2.github.io-horiseon/     
-![image](https://user-images.githubusercontent.com/84297480/120406504-ff9c5900-c318-11eb-985b-01bca208cb96.png)
+
+![image](https://user-images.githubusercontent.com/84297480/120406504-ff9c5900-c318-11eb-985b-01bca208cb96.png)    
