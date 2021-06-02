@@ -8,7 +8,7 @@ The following changes were made:
 
 - DIV labels were replaced with specific HTML5 semantics       
 - Alt attributes were added to IMG elements for accessibilty    
-- CSS class labels were combined to reduce redundancy   
+- CSS class labels were combined/renamed to reduce redundancy   
 
 The Horiseon website can be view at the following url: https://rsanders2.github.io/rsanders2.github.io-horiseon/     
 
