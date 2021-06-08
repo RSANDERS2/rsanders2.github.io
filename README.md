@@ -10,6 +10,6 @@ The following changes were made:
 - Alt attributes were added to IMG elements for accessibilty    
 - CSS class labels were combined/renamed to reduce redundancy   
 
-The Horiseon website can be view at the following url: https://rsanders2.github.io/rsanders2.github.io-horiseon/     
+The Horiseon website can be view at the following url: https://rsanders2.github.io/rsanders2.github.io-coderefactor/    
 
 ![image](https://user-images.githubusercontent.com/84297480/120406504-ff9c5900-c318-11eb-985b-01bca208cb96.png)    
